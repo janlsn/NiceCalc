@@ -36,3 +36,4 @@ Get the latest version here:
 
 Each release includes the version number and changelog. The APK filename stays consistent:
 
+📄 [View full changelog](https://github.com/janlsn/NiceCalc/blob/main/CHANGELOG.md)
