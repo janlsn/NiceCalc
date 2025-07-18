@@ -15,7 +15,7 @@
 
 Get the latest version here:
 
-👉 **[Download APK](https://github.com/janlsn/NiceCalc/releases/latest/download/v1.1.0/app-release.apk)**
+👉 **[Download APK](https://github.com/janlsn/NiceCalc/latest/download/v1.1.0/app-release.apk)**
 
 ### How to install
 
