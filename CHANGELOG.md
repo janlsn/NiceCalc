@@ -12,7 +12,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Target SDK increased to API level 36 for compatibility with the latest Android versions.
 ### Fixed
 - Corrected minor misconfiguration for one of the calculator buttons (had no functional impact).
-- 
 ## [1.0.0] – 2025-05-18
 ### Added
 - First public release of **NiceCalc**
