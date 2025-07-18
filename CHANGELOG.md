@@ -1,3 +1,12 @@
+## [1.1.0] – 2025-07-18
+
+### Changed
+- Major internal code cleanup to reduce duplication and improve maintainability.
+- Target SDK increased to API level 36 for compatibility with the latest Android versions.
+
+### Fixed
+- Corrected minor misconfiguration for one of the calculator buttons (had no functional impact).
+
 # 📜 Changelog
 
 All notable changes to this project will be documented in this file.
